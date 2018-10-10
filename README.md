@@ -3,6 +3,14 @@ Simple Robot Starter
 
 Simple starter for robot framework and selenium for web testing
 
+Prerequisite
+------------
+
+- direnv
+- python
+- pip
+- chrome browser
+
 Setup
 -----
 
