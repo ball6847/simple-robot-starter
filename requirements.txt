@@ -1,0 +1,5 @@
+selenium
+robotframework
+robotframework-selenium2library
+robotframework-ride
+chromedriver-binary
